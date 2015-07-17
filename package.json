@@ -1,0 +1,17 @@
+{
+  "name": "nstrap-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marc Binder <marcandrebinder@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "express": "^4.13.1",
+    "nstrap": "^0.1.0",
+    "sqlite3": "^3.0.9"
+  }
+}
